@@ -1,8 +1,8 @@
 # Contributor list
 
-Edit the below table and add your details, once approved you will see your name as an contributor.
+Edit the below table and add your details, once approved you will see your name as a contributor.
 
 | Contributor name         | Email                   | Designation          |
 |--------------------------|-------------------------|----------------------|
 | Partha Mallick           | partha0988@gmail.com    | Full-stack Developer |
-| Swarup                   | sgcocac@gmail.com       | Demo Designation     |
+| Demo User                | demo@demo.com           | Demo Designation     |
