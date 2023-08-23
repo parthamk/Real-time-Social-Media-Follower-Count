@@ -5,4 +5,4 @@ Edit the below table and add your details, once approved you will see your name 
 | Contributor name         | Email                   | Designation          |
 |--------------------------|-------------------------|----------------------|
 | Partha Mallick           | partha0988@gmail.com    | Full-stack Developer |
-| Demo Name                | demo@demoemail.demo     | Demo Designation     |
+| Swarup                   | sgcocac@gmail.com       | Demo Designation     |
