@@ -21,11 +21,9 @@ Use your Idea, and create an issue if you want let's start contributing.
 
 
 
-> .
-> .
-> Here I have some more ideas:
-> .
-Creating a full-fledged social media follower counter React app for Twitter, Instagram, and Facebook involves multiple steps, including setting up API access, creating components, handling state, and styling the app. Since this is a complex project, I'll provide you with a high-level step-by-step guide along with some code snippets. Keep in mind that creating such an app might require API keys and authentication credentials from the respective platforms.
+# Here I have some more ideas:
+
+>> Creating a full-fledged social media follower counter React app for Twitter, Instagram, and Facebook involves multiple steps, including setting up API access, creating components, handling state, and styling the app. Since this is a complex project, I'll provide you with a high-level step-by-step guide along with some code snippets. Keep in mind that creating such an app might require API keys and authentication credentials from the respective platforms.
 
 **Step 1: Set Up the Project**
 1. Create a new React app using Create React App or your preferred setup.
