@@ -6,3 +6,4 @@ Edit the below table and add your details, once approved you will see your name 
 |--------------------------|-------------------------|----------------------|
 | Partha Mallick           | partha0988@gmail.com    | Full-stack Developer |
 | Demo User                | demo@demo.com           | Demo Designation     |
+| Swarup                   | sgcocac@gmail.com       | Full-stack Developer |
