@@ -13,8 +13,9 @@ Use your Idea, and create an issue if you want let's start contributing.
 ```
 1. Fork this repo
 2. Go to CONTRIBUTOR.md file
-3. Your name and Email id are there, once you will open the CONTRIBUTOR.md file you will see the format for enrolling for contribution.
+3. Once you will open the CONTRIBUTOR.md file you will see the format for enrolling for contribution edit and put your details.
 4. Now finally create a merge request.
 5. If your name is not in the contributor list you won't be able to push/marge any changes in the main repository.
+6. Your name and Email id will be there if you have don't the above step successfully.
 ```
 
